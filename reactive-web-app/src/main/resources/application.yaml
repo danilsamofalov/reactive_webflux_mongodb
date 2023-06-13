@@ -1,0 +1,10 @@
+server:
+  port: 4321
+
+spring:
+  data:
+    mongodb:
+      database: admin
+      username: admin
+      password: admin
+

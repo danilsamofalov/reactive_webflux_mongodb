@@ -1,0 +1,3 @@
+# Project exclude paths
+/reactive-web-app/target/
+/reactive-web-app-client/target/
